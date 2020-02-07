@@ -7,5 +7,7 @@ jobs:
     name: defalut
     runs-on: [ubuntu-latest]
     steps:
+      - env:
+          key: 
       - name: default
-        run: echo "hello world"
+        run: python test.py
