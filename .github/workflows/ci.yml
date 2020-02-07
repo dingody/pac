@@ -7,7 +7,5 @@ jobs:
     name: defalut
     runs-on: [ubuntu-latest]
     steps:
-      - env:
-          key: 
       - name: default
         run: python test.py
