@@ -1,0 +1,11 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    name: defalut
+    runs-on: [ubuntu-latest]
+    steps:
+      - name: default
+        run: echo "hello world"
