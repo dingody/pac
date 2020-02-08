@@ -8,4 +8,6 @@ jobs:
     runs-on: [ubuntu-latest]
     steps:
       - name: default
-        run: python test.py
+        run: |
+          cd py
+          python test.py
