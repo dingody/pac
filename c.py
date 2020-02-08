@@ -16,7 +16,7 @@ f = open("d.conf")
 domain = ""
 for i in f.readlines():
   templine = i
-  if templine.find("DOMAIN-KEYWORD")!=-1 or templine.find("DOMAIN-KEYWORD")!=-1:
+  if templine.find("DOMAIN-KEYWORD")!=-1 or templine.find("DOMAIN-SUFFIX")!=-1:
     domain = domain + dt.substitute(domain=templine.split(",")[1])
 f.close()
 
