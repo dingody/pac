@@ -22,6 +22,11 @@
 *ytimg* +proxy
 *nytimes* +proxy
 *cloudfront* +proxy
+*slashdot* +proxy
+*t.co* +proxy
+*fb.com* +proxy
+*fc2.com* +proxy
+*nyt.com* +proxy
 
 
 * +direct
