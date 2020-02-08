@@ -24,6 +24,7 @@
 *nytcn* +proxy
 *cloudfront* +proxy
 *slashdot* +proxy
+*phncdn* +proxy
 *t.co* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
