@@ -25,6 +25,7 @@
 *cloudfront* +proxy
 *slashdot* +proxy
 *phncdn* +proxy
+*swag* +proxy
 *t.co* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
