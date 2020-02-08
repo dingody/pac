@@ -21,6 +21,7 @@
 *ggpht* +proxy
 *ytimg* +proxy
 *nytimes* +proxy
+*nytcn* +proxy
 *cloudfront* +proxy
 *slashdot* +proxy
 *t.co* +proxy
