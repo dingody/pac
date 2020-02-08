@@ -20,6 +20,7 @@
 *quora* +proxy
 *ggpht* +proxy
 *ytimg* +proxy
+*nytimes* +proxy
 
 
 * +direct
