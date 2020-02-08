@@ -21,6 +21,7 @@
 *ggpht* +proxy
 *ytimg* +proxy
 *nytimes* +proxy
+*cloudfront* +proxy
 
 
 * +direct
