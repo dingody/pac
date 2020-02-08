@@ -12,7 +12,7 @@ domain_template = """*$domain* +proxy
 st = Template(switchy_template)
 dt = Template(domain_template)
 
-f = open("d.txt")
+f = open("d.conf")
 domain = ""
 for i in f.readlines():
   templine = i
