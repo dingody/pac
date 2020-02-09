@@ -31,6 +31,7 @@
 *fb.com* +proxy
 *fc2.com* +proxy
 *nyt.com* +proxy
+*redd.it* +proxy
 
 
 * +direct
