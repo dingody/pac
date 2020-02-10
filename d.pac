@@ -27,6 +27,8 @@
 *phncdn* +proxy
 *swag* +proxy
 *v2ray* +proxy
+*tensorflow* +proxy
+*t66y* +proxy
 *t.co* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
