@@ -29,6 +29,7 @@
 *v2ray* +proxy
 *tensorflow* +proxy
 *t66y* +proxy
+*justmysocks* +proxy
 *t.co* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
