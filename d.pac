@@ -35,6 +35,7 @@
 *fc2.com* +proxy
 *nyt.com* +proxy
 *redd.it* +proxy
+*bit.ly* +proxy
 
 
 * +direct
