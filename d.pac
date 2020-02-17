@@ -15,6 +15,7 @@
 *blogspot* +proxy
 *gstatic* +proxy
 *wikipedia* +proxy
+*wikimedia* +proxy
 *porn* +proxy
 *reddit* +proxy
 *quora* +proxy
