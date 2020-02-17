@@ -32,8 +32,7 @@
 *t66y* +proxy
 *imgur* +proxy
 *youtu.be* +proxy
-*t.co
-* +proxy
+*t.co* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
 *nyt.com* +proxy
