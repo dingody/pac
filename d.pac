@@ -31,7 +31,9 @@
 *tensorflow* +proxy
 *t66y* +proxy
 *imgur* +proxy
-*t.co* +proxy
+*youtu.be* +proxy
+*t.co
+* +proxy
 *fb.com* +proxy
 *fc2.com* +proxy
 *nyt.com* +proxy
