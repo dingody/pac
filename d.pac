@@ -31,6 +31,8 @@
 *tensorflow* +proxy
 *t66y* +proxy
 *imgur* +proxy
+*scikit-learn* +proxy
+*sstatic* +proxy
 *youtu.be* +proxy
 *t.co* +proxy
 *fb.com* +proxy
@@ -38,6 +40,8 @@
 *nyt.com* +proxy
 *redd.it* +proxy
 *bit.ly* +proxy
+*jable.tv* +proxy
+*cdnlab.live* +proxy
 
 
 * +direct
