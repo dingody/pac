@@ -33,6 +33,8 @@
 *imgur* +proxy
 *scikit-learn* +proxy
 *sstatic* +proxy
+*telegram* +proxy
+*telesco* +proxy
 *youtu.be* +proxy
 *t.co* +proxy
 *fb.com* +proxy
@@ -42,6 +44,7 @@
 *bit.ly* +proxy
 *jable.tv* +proxy
 *cdnlab.live* +proxy
+*t.me* +proxy
 
 
 * +direct
