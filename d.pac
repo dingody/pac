@@ -35,6 +35,7 @@
 *sstatic* +proxy
 *telegram* +proxy
 *telesco* +proxy
+*coursera* +proxy
 *youtu.be* +proxy
 *t.co* +proxy
 *fb.com* +proxy
