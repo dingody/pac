@@ -2,7 +2,6 @@
 @with result
 
 *google* +proxy
-*google* +proxy
 *facebook* +proxy
 *youtube* +proxy
 *twitter* +proxy
