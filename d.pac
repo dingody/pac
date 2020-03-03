@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
-*google* +proxy
+*google* +proxy +proxy-cb
 *facebook* +proxy
 *youtube* +proxy
 *twitter* +proxy
