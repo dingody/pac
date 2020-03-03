@@ -6,7 +6,7 @@ $domain
 
 * +direct
 """
-domain_template = """*$domain* +proxy
+domain_template = """*$domain* +proxy +proxy-cb
 """
 
 st = Template(switchy_template)
