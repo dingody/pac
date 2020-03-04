@@ -11,7 +11,7 @@ $domain_cp
 domain_template = """*$domain* +proxy
 """
 
-domain_template_cb = """*$domain* +proxy-cb
+domain_template_cb = """*$domain_cp* +proxy-cb
 """
 
 st = Template(switchy_template)
@@ -25,7 +25,7 @@ for i in f.readlines():
   templine = i
   if templine.find("DOMAIN-KEYWORD")!=-1 or templine.find("DOMAIN-SUFFIX")!=-1:
     domain = domain + dt.substitute(domain=templine.split(",")[1])
-    domain_cp = domain_cp + dt.substitute(domain_cp=templine.split(",")[1])
+    domain_cp = domain_cp + dt_cb.substitute(domain_cp=templine.split(",")[1])
 f.close()
 
 switchy_pac = st.substitute(domain=domain)
