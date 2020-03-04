@@ -3,7 +3,7 @@ switchy_template = """[SwitchyOmega Conditions]
 @with result
 
 $domain
-$domain_cp
+$domain_cb
 
 * +direct
 """
@@ -11,7 +11,7 @@ $domain_cp
 domain_template = """*$domain* +proxy
 """
 
-domain_template_cb = """*$domain_cp* +proxy-cb
+domain_template_cb = """*$domain_cb* +proxy-cb
 """
 
 st = Template(switchy_template)
@@ -20,16 +20,15 @@ dt_cb = Template(domain_template_cb)
 
 f = open("d.conf")
 domain = ""
-domain_cp = ""
+domain_cb = ""
 for i in f.readlines():
   templine = i
   if templine.find("DOMAIN-KEYWORD")!=-1 or templine.find("DOMAIN-SUFFIX")!=-1:
     domain = domain + dt.substitute(domain=templine.split(",")[1])
-    domain_cp = domain_cp + dt_cb.substitute(domain_cp=templine.split(",")[1])
+    domain_cb = domain_cb + dt_cb.substitute(domain_cb=templine.split(",")[1])
 f.close()
 
-switchy_pac = st.substitute(domain=domain)
-switchy_pac = st.substitute(domain_cp=domain_cp)
+switchy_pac = st.substitute(domain=domain,domain_cb=domain_cb)
 f = open('d.pac', 'w')
 f.write(switchy_pac)
 f.close()
