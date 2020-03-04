@@ -3,7 +3,6 @@ switchy_template = """[SwitchyOmega Conditions]
 @with result
 
 $domain
-$domain_cb
 
 * +direct
 """
@@ -28,7 +27,12 @@ for i in f.readlines():
     domain_cb = domain_cb + dt_cb.substitute(domain_cb=templine.split(",")[1])
 f.close()
 
-switchy_pac = st.substitute(domain=domain,domain_cb=domain_cb)
+switchy_pac = st.substitute(domain=domain)
 f = open('d.pac', 'w')
+f.write(switchy_pac)
+f.close()
+
+switchy_pac = st.substitute(domain=domain_cb)
+f = open('d-cb.pac', 'w')
 f.write(switchy_pac)
 f.close()
