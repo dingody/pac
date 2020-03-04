@@ -2,51 +2,96 @@
 @with result
 
 *google* +proxy
+*facebook* +proxy
+*youtube* +proxy
+*twitter* +proxy
+*instagram* +proxy
+*gmail* +proxy
+*twimg* +proxy
+*medium* +proxy
+*github* +proxy
+*appspot* +proxy
+*stackoverflow* +proxy
+*blogspot* +proxy
+*gstatic* +proxy
+*wikipedia* +proxy
+*wikimedia* +proxy
+*porn* +proxy
+*reddit* +proxy
+*quora* +proxy
+*ggpht* +proxy
+*ytimg* +proxy
+*nytimes* +proxy
+*nytcn* +proxy
+*cloudfront* +proxy
+*slashdot* +proxy
+*phncdn* +proxy
+*swag* +proxy
+*v2ray* +proxy
+*tensorflow* +proxy
+*t66y* +proxy
+*imgur* +proxy
+*scikit-learn* +proxy
+*sstatic* +proxy
+*telegram* +proxy
+*telesco* +proxy
+*coursera* +proxy
+*youtu.be* +proxy
+*t.co* +proxy
+*fb.com* +proxy
+*fc2.com* +proxy
+*nyt.com* +proxy
+*redd.it* +proxy
+*bit.ly* +proxy
+*jable.tv* +proxy
+*cdnlab.live* +proxy
+*t.me* +proxy
+
 *google* +proxy-cb
-*facebook* +proxy +proxy-cb
-*youtube* +proxy +proxy-cb
-*twitter* +proxy +proxy-cb
-*instagram* +proxy +proxy-cb
-*gmail* +proxy +proxy-cb
-*twimg* +proxy +proxy-cb
-*medium* +proxy +proxy-cb
-*github* +proxy +proxy-cb
-*appspot* +proxy +proxy-cb
-*stackoverflow* +proxy +proxy-cb
-*blogspot* +proxy +proxy-cb
-*gstatic* +proxy +proxy-cb
-*wikipedia* +proxy +proxy-cb
-*wikimedia* +proxy +proxy-cb
-*porn* +proxy +proxy-cb
-*reddit* +proxy +proxy-cb
-*quora* +proxy +proxy-cb
-*ggpht* +proxy +proxy-cb
-*ytimg* +proxy +proxy-cb
-*nytimes* +proxy +proxy-cb
-*nytcn* +proxy +proxy-cb
-*cloudfront* +proxy +proxy-cb
-*slashdot* +proxy +proxy-cb
-*phncdn* +proxy +proxy-cb
-*swag* +proxy +proxy-cb
-*v2ray* +proxy +proxy-cb
-*tensorflow* +proxy +proxy-cb
-*t66y* +proxy +proxy-cb
-*imgur* +proxy +proxy-cb
-*scikit-learn* +proxy +proxy-cb
-*sstatic* +proxy +proxy-cb
-*telegram* +proxy +proxy-cb
-*telesco* +proxy +proxy-cb
-*coursera* +proxy +proxy-cb
-*youtu.be* +proxy +proxy-cb
-*t.co* +proxy +proxy-cb
-*fb.com* +proxy +proxy-cb
-*fc2.com* +proxy +proxy-cb
-*nyt.com* +proxy +proxy-cb
-*redd.it* +proxy +proxy-cb
-*bit.ly* +proxy +proxy-cb
-*jable.tv* +proxy +proxy-cb
-*cdnlab.live* +proxy +proxy-cb
-*t.me* +proxy +proxy-cb
+*facebook* +proxy-cb
+*youtube* +proxy-cb
+*twitter* +proxy-cb
+*instagram* +proxy-cb
+*gmail* +proxy-cb
+*twimg* +proxy-cb
+*medium* +proxy-cb
+*github* +proxy-cb
+*appspot* +proxy-cb
+*stackoverflow* +proxy-cb
+*blogspot* +proxy-cb
+*gstatic* +proxy-cb
+*wikipedia* +proxy-cb
+*wikimedia* +proxy-cb
+*porn* +proxy-cb
+*reddit* +proxy-cb
+*quora* +proxy-cb
+*ggpht* +proxy-cb
+*ytimg* +proxy-cb
+*nytimes* +proxy-cb
+*nytcn* +proxy-cb
+*cloudfront* +proxy-cb
+*slashdot* +proxy-cb
+*phncdn* +proxy-cb
+*swag* +proxy-cb
+*v2ray* +proxy-cb
+*tensorflow* +proxy-cb
+*t66y* +proxy-cb
+*imgur* +proxy-cb
+*scikit-learn* +proxy-cb
+*sstatic* +proxy-cb
+*telegram* +proxy-cb
+*telesco* +proxy-cb
+*coursera* +proxy-cb
+*youtu.be* +proxy-cb
+*t.co* +proxy-cb
+*fb.com* +proxy-cb
+*fc2.com* +proxy-cb
+*nyt.com* +proxy-cb
+*redd.it* +proxy-cb
+*bit.ly* +proxy-cb
+*jable.tv* +proxy-cb
+*cdnlab.live* +proxy-cb
+*t.me* +proxy-cb
 
 
 * +direct
