@@ -36,6 +36,7 @@
 *telegram* +proxy
 *telesco* +proxy
 *coursera* +proxy
+*lexisnexis* +proxy
 *youtu.be* +proxy
 *t.co* +proxy
 *fb.com* +proxy
