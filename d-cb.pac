@@ -37,6 +37,8 @@
 *telesco* +proxy-cb
 *coursera* +proxy-cb
 *lexisnexis* +proxy-cb
+*bywave* +proxy-cb
+*feedly* +proxy-cb
 *youtu.be* +proxy-cb
 *t.co* +proxy-cb
 *fb.com* +proxy-cb
