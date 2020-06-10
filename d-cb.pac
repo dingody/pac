@@ -39,16 +39,16 @@
 *lexisnexis* +proxy-cb
 *bywave* +proxy-cb
 *feedly* +proxy-cb
-*youtu.be* +proxy-cb
-*t.co* +proxy-cb
-*fb.com* +proxy-cb
-*fc2.com* +proxy-cb
-*nyt.com* +proxy-cb
-*redd.it* +proxy-cb
-*bit.ly* +proxy-cb
-*jable.tv* +proxy-cb
-*cdnlab.live* +proxy-cb
-*t.me* +proxy-cb
+*.youtu.be* +proxy-cb
+*.t.co* +proxy-cb
+*.fb.com* +proxy-cb
+*.fc2.com* +proxy-cb
+*.nyt.com* +proxy-cb
+*.redd.it* +proxy-cb
+*.bit.ly* +proxy-cb
+*.jable.tv* +proxy-cb
+*.cdnlab.live* +proxy-cb
+*.t.me* +proxy-cb
 
 
 * +direct

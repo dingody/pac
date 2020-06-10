@@ -39,16 +39,16 @@
 *lexisnexis* +proxy
 *bywave* +proxy
 *feedly* +proxy
-*youtu.be* +proxy
-*t.co* +proxy
-*fb.com* +proxy
-*fc2.com* +proxy
-*nyt.com* +proxy
-*redd.it* +proxy
-*bit.ly* +proxy
-*jable.tv* +proxy
-*cdnlab.live* +proxy
-*t.me* +proxy
+*.youtu.be* +proxy
+*.t.co* +proxy
+*.fb.com* +proxy
+*.fc2.com* +proxy
+*.nyt.com* +proxy
+*.redd.it* +proxy
+*.bit.ly* +proxy
+*.jable.tv* +proxy
+*.cdnlab.live* +proxy
+*.t.me* +proxy
 
 
 * +direct
