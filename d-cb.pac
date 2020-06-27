@@ -49,6 +49,7 @@
 *.jable.tv* +proxy-cb
 *.cdnlab.live* +proxy-cb
 *.t.me* +proxy-cb
+*.live.com* +proxy-cb
 
 
 * +direct
