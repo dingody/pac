@@ -26,7 +26,6 @@
 *cloudfront* +proxy
 *slashdot* +proxy
 *phncdn* +proxy
-*swag* +proxy
 *v2ray* +proxy
 *tensorflow* +proxy
 *t66y* +proxy
