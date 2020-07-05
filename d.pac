@@ -39,6 +39,7 @@
 *lexisnexis* +proxy
 *bywave* +proxy
 *feedly* +proxy
+*apache* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
