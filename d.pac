@@ -39,6 +39,7 @@
 *bywave* +proxy
 *feedly* +proxy
 *apache* +proxy
+*ycombinator* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
