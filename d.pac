@@ -35,7 +35,6 @@
 *telegram* +proxy
 *telesco* +proxy
 *coursera* +proxy
-*lexisnexis* +proxy
 *bywave* +proxy
 *feedly* +proxy
 *apache* +proxy
