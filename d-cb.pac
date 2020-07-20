@@ -1,56 +1,6 @@
 [SwitchyOmega Conditions]
 @with result
 
-*google* +proxy-cb
-*facebook* +proxy-cb
-*youtube* +proxy-cb
-*twitter* +proxy-cb
-*instagram* +proxy-cb
-*gmail* +proxy-cb
-*twimg* +proxy-cb
-*medium* +proxy-cb
-*github* +proxy-cb
-*appspot* +proxy-cb
-*stackoverflow* +proxy-cb
-*blogspot* +proxy-cb
-*gstatic* +proxy-cb
-*wikipedia* +proxy-cb
-*wikimedia* +proxy-cb
-*porn* +proxy-cb
-*reddit* +proxy-cb
-*quora* +proxy-cb
-*ggpht* +proxy-cb
-*ytimg* +proxy-cb
-*nytimes* +proxy-cb
-*nytcn* +proxy-cb
-*cloudfront* +proxy-cb
-*slashdot* +proxy-cb
-*phncdn* +proxy-cb
-*v2ray* +proxy-cb
-*tensorflow* +proxy-cb
-*t66y* +proxy-cb
-*imgur* +proxy-cb
-*scikit-learn* +proxy-cb
-*sstatic* +proxy-cb
-*telegram* +proxy-cb
-*telesco* +proxy-cb
-*coursera* +proxy-cb
-*lexisnexis* +proxy-cb
-*bywave* +proxy-cb
-*feedly* +proxy-cb
-*apache* +proxy-cb
-*ycombinator* +proxy-cb
-*.youtu.be* +proxy-cb
-*.t.co* +proxy-cb
-*.fb.com* +proxy-cb
-*.fc2.com* +proxy-cb
-*.nyt.com* +proxy-cb
-*.redd.it* +proxy-cb
-*.bit.ly* +proxy-cb
-*.jable.tv* +proxy-cb
-*.cdnlab.live* +proxy-cb
-*.t.me* +proxy-cb
-*.live.com* +proxy-cb
-
+149.154.172.0/22,91.108.12.0/22,149.154.160.0/22,149.154.168.0/22,149.154.164.0/22,91.108.4.0/22,91.108.56.0/22,91.108.8.0/22,95.161.64.0/20,91.108.16.0/22,91.108.20.0/22,geosite:google,geosite:facebook,geosite:youtube,geosite:twitter,geosite:instagram,geosite:gmail,geosite:twimg,geosite:medium,geosite:github,geosite:appspot,geosite:stackoverflow,geosite:blogspot,geosite:gstatic,geosite:wikipedia,geosite:wikimedia,geosite:porn,geosite:reddit,geosite:quora,geosite:ggpht,geosite:ytimg,geosite:nytimes,geosite:nytcn,geosite:cloudfront,geosite:slashdot,geosite:phncdn,geosite:v2ray,geosite:tensorflow,geosite:t66y,geosite:imgur,geosite:scikit-learn,geosite:sstatic,geosite:telegram,geosite:telesco,geosite:coursera,geosite:lexisnexis,geosite:bywave,geosite:feedly,geosite:apache,geosite:ycombinator,domain:youtu.be,domain:t.co,domain:fb.com,domain:fc2.com,domain:nyt.com,domain:redd.it,domain:bit.ly,domain:jable.tv,domain:cdnlab.live,domain:t.me,domain:live.com,
 
 * +direct
