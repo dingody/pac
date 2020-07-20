@@ -7,8 +7,7 @@ $domain
 * +direct
 """
 
-v2rayng_template = """
-$domain
+v2rayng_template = """$domain
 """
 
 domain_template = """*$domain* +proxy
