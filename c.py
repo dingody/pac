@@ -14,8 +14,7 @@ $domain
 domain_template = """*$domain* +proxy
 """
 
-domain_template_cb = """
-*$domain*,
+domain_template_cb = """$domain,
 """
 
 st = Template(switchy_template)
