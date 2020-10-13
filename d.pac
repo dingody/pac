@@ -39,6 +39,8 @@
 *feedly* +proxy
 *apache* +proxy
 *ycombinator* +proxy
+*btdig* +proxy
+*jquery* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
