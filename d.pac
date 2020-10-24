@@ -41,6 +41,7 @@
 *ycombinator* +proxy
 *btdig* +proxy
 *jquery* +proxy
+*producthunt* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
