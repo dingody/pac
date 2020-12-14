@@ -42,6 +42,7 @@
 *btdig* +proxy
 *jquery* +proxy
 *producthunt* +proxy
+*9to5mac* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
