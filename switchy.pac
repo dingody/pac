@@ -56,6 +56,7 @@
 *.t.me* +proxy
 *.live.com* +proxy
 *.gitlab.io* +proxy
+*.microsoft.com* +proxy
 
 
 * +direct
