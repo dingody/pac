@@ -57,6 +57,7 @@
 *.live.com* +proxy
 *.gitlab.io* +proxy
 *.microsoft.com* +proxy
+*.bbc.com* +proxy
 
 
 * +direct
