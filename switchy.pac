@@ -58,6 +58,7 @@
 *.gitlab.io* +proxy
 *.microsoft.com* +proxy
 *.bbc.com* +proxy
+*.bbc.co.uk* +proxy
 
 
 * +direct
