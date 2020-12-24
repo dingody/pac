@@ -22,13 +22,14 @@ switchy_domain = ""
 gfw_domain=""
 for i in f.readlines():
   templine = i
-  if templine.find("DOMAIN-KEYWORD")!=-1:
-    switchy_domain = switchy_domain + sdt.substitute(domain=templine.split(",")[1])
-    gfw_domain = gfw_domain + gt.substitute(domain=templine.split(",")[1])
-  if templine.find("DOMAIN-SUFFIX")!=-1:
-    switchy_domain = switchy_domain + sdt.substitute(domain="."+templine.split(",")[1])
-    gfw_domain = gfw_domain + gt.substitute(domain=templine.split(",")[1])
-f.close()
+  if templine.find("PROXY")!=-1:
+    if templine.find("DOMAIN-KEYWORD")!=-1:
+      switchy_domain = switchy_domain + sdt.substitute(domain=templine.split(",")[1])
+      gfw_domain = gfw_domain + gt.substitute(domain=templine.split(",")[1])
+    if templine.find("DOMAIN-SUFFIX")!=-1:
+      switchy_domain = switchy_domain + sdt.substitute(domain="."+templine.split(",")[1])
+      gfw_domain = gfw_domain + gt.substitute(domain=templine.split(",")[1])
+  f.close()
 
 switchy_pac = st.substitute(domain=switchy_domain)
 f = open('switchy.pac', 'w')
