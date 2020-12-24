@@ -44,6 +44,7 @@
 *9to5mac* +proxy
 *tonymacx86* +proxy
 *bloomberg* +proxy
+*devpost* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
