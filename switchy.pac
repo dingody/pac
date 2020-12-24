@@ -39,7 +39,6 @@
 *feedly* +proxy
 *apache* +proxy
 *ycombinator* +proxy
-*btdig* +proxy
 *jquery* +proxy
 *producthunt* +proxy
 *9to5mac* +proxy
