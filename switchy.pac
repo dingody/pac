@@ -46,6 +46,7 @@
 *bloomberg* +proxy
 *devpost* +proxy
 *mitre* +proxy
+*xvideos* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
