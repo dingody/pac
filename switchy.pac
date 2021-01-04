@@ -47,6 +47,7 @@
 *devpost* +proxy
 *mitre* +proxy
 *xvideos* +proxy
+*vimeo* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
