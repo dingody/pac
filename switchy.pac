@@ -45,6 +45,7 @@
 *tonymacx86* +proxy
 *bloomberg* +proxy
 *devpost* +proxy
+*mitre* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
