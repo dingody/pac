@@ -48,6 +48,7 @@
 *mitre* +proxy
 *xvideos* +proxy
 *vimeo* +proxy
+*pinterest* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
