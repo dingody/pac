@@ -49,6 +49,7 @@
 *xvideos* +proxy
 *vimeo* +proxy
 *pinterest* +proxy
+*pinimg* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
