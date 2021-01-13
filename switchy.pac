@@ -50,6 +50,8 @@
 *vimeo* +proxy
 *pinterest* +proxy
 *pinimg* +proxy
+*blogger* +proxy
+*blogspot* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
