@@ -12,7 +12,7 @@
 *github* +proxy
 *appspot* +proxy
 *stackoverflow* +proxy
-*blogspot* +proxy
+** +proxy
 *gstatic* +proxy
 *wikipedia* +proxy
 *wikimedia* +proxy
@@ -50,7 +50,6 @@
 *vimeo* +proxy
 *pinterest* +proxy
 *pinimg* +proxy
-*blogspot* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
