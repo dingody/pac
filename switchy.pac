@@ -52,6 +52,7 @@
 *pinimg* +proxy
 *blogger* +proxy
 *blogspot* +proxy
+*blogblog* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
