@@ -12,7 +12,6 @@
 *github* +proxy
 *appspot* +proxy
 *stackoverflow* +proxy
-** +proxy
 *gstatic* +proxy
 *wikipedia* +proxy
 *wikimedia* +proxy
