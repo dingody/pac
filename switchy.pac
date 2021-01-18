@@ -52,6 +52,7 @@
 *blogger* +proxy
 *blogspot* +proxy
 *blogblog* +proxy
+*towardsdatascience* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
