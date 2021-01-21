@@ -54,6 +54,7 @@
 *blogblog* +proxy
 *towardsdatascience* +proxy
 *logrhythm* +proxy
+*slideshare* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
