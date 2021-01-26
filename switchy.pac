@@ -56,6 +56,7 @@
 *logrhythm* +proxy
 *slideshare* +proxy
 *keras* +proxy
+*elastic* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
