@@ -57,6 +57,7 @@
 *slideshare* +proxy
 *keras* +proxy
 *elastic* +proxy
+*chromeunboxed* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
