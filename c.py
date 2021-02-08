@@ -13,7 +13,7 @@ switchy_domain_template = """*$domain* +proxy
 gfw_template = """$domain,
 """
 
-v2ray_template = """domain:$domain,
+v2ray_template = """keyword:$domain,
 """
 
 st = Template(switchy_template)
