@@ -58,6 +58,7 @@
 *keras* +proxy
 *elastic* +proxy
 *chromeunboxed* +proxy
+*theguardian* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
