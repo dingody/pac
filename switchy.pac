@@ -61,6 +61,7 @@
 *theguardian* +proxy
 *v2ex* +proxy
 *deepmind* +proxy
+*gettyimages* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
