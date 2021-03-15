@@ -62,6 +62,7 @@
 *v2ex* +proxy
 *deepmind* +proxy
 *gettyimages* +proxy
+*notion* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
