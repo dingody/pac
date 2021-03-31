@@ -63,6 +63,7 @@
 *deepmind* +proxy
 *gettyimages* +proxy
 *notion* +proxy
+*manjaro* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
