@@ -64,6 +64,8 @@
 *gettyimages* +proxy
 *notion* +proxy
 *manjaro* +proxy
+*economist* +proxy
+*vmware* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
