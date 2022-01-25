@@ -66,6 +66,7 @@
 *manjaro* +proxy
 *economist* +proxy
 *vmware* +proxy
+*heroku* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
