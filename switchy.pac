@@ -67,6 +67,7 @@
 *economist* +proxy
 *vmware* +proxy
 *heroku* +proxy
+*steampowered* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
