@@ -68,6 +68,7 @@
 *vmware* +proxy
 *heroku* +proxy
 *steampowered* +proxy
+*openai* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
