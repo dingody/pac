@@ -69,6 +69,7 @@
 *heroku* +proxy
 *steampowered* +proxy
 *openai* +proxy
+*discord* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
