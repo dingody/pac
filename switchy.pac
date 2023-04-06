@@ -70,6 +70,7 @@
 *steampowered* +proxy
 *openai* +proxy
 *discord* +proxy
+*civitai* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
