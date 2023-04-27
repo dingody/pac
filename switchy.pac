@@ -71,6 +71,7 @@
 *openai* +proxy
 *discord* +proxy
 *civitai* +proxy
+*reuters* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
