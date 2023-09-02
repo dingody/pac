@@ -53,7 +53,7 @@
 *blogspot* +proxy
 *blogblog* +proxy
 *towardsdatascience* +proxy
-*logrhythm* +proxy
+*njav* +proxy
 *slideshare* +proxy
 *keras* +proxy
 *elastic* +proxy
