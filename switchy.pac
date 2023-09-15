@@ -72,6 +72,7 @@
 *discord* +proxy
 *civitai* +proxy
 *reuters* +proxy
+*luckydesigner* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
