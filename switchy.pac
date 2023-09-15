@@ -33,6 +33,7 @@
 *sstatic* +proxy
 *telegram* +proxy
 *telesco* +proxy
+*telegra* +proxy
 *coursera* +proxy
 *bywave* +proxy
 *feedly* +proxy
