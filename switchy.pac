@@ -41,7 +41,6 @@
 *jquery* +proxy
 *producthunt* +proxy
 *9to5mac* +proxy
-*tonymacx86* +proxy
 *bloomberg* +proxy
 *devpost* +proxy
 *mitre* +proxy
@@ -79,8 +78,6 @@
 *.nyt.com* +proxy
 *.redd.it* +proxy
 *.bit.ly* +proxy
-*.jable.tv* +proxy
-*.cdnlab.live* +proxy
 *.t.me* +proxy
 *.live.com* +proxy
 *.gitlab.io* +proxy
