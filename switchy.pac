@@ -71,6 +71,7 @@
 *civitai* +proxy
 *reuters* +proxy
 *luckydesigner* +proxy
+*gravatar* +proxy
 *.youtu.be* +proxy
 *.t.co* +proxy
 *.fb.com* +proxy
