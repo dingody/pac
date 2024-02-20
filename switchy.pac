@@ -45,7 +45,6 @@
 *bloomberg* +proxy
 *devpost* +proxy
 *mitre* +proxy
-*xvideos* +proxy
 *vimeo* +proxy
 *pinterest* +proxy
 *pinimg* +proxy
@@ -53,7 +52,6 @@
 *blogspot* +proxy
 *blogblog* +proxy
 *towardsdatascience* +proxy
-*njav* +proxy
 *slideshare* +proxy
 *keras* +proxy
 *elastic* +proxy
@@ -83,7 +81,6 @@
 *.t.me* +proxy
 *.live.com* +proxy
 *.gitlab.io* +proxy
-*.microsoft.com* +proxy
 *.bbc.com* +proxy
 *.bbc.co.uk* +proxy
 *.vercel.app* +proxy
