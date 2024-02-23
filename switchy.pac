@@ -15,7 +15,6 @@
 *gstatic* +proxy
 *wikipedia* +proxy
 *wikimedia* +proxy
-*porn* +proxy
 *reddit* +proxy
 *quora* +proxy
 *ggpht* +proxy
@@ -27,19 +26,15 @@
 *phncdn* +proxy
 *v2ray* +proxy
 *tensorflow* +proxy
-*t66y* +proxy
 *imgur* +proxy
-*scikit-learn* +proxy
 *sstatic* +proxy
 *telegram* +proxy
 *telesco* +proxy
 *telegra* +proxy
 *coursera* +proxy
-*bywave* +proxy
 *feedly* +proxy
 *apache* +proxy
 *ycombinator* +proxy
-*jquery* +proxy
 *producthunt* +proxy
 *9to5mac* +proxy
 *bloomberg* +proxy
@@ -48,9 +43,6 @@
 *vimeo* +proxy
 *pinterest* +proxy
 *pinimg* +proxy
-*blogger* +proxy
-*blogspot* +proxy
-*blogblog* +proxy
 *towardsdatascience* +proxy
 *slideshare* +proxy
 *keras* +proxy
@@ -65,7 +57,6 @@
 *economist* +proxy
 *vmware* +proxy
 *heroku* +proxy
-*steampowered* +proxy
 *openai* +proxy
 *discord* +proxy
 *civitai* +proxy
@@ -85,7 +76,6 @@
 *.bbc.com* +proxy
 *.bbc.co.uk* +proxy
 *.vercel.app* +proxy
-*.aiuys.com* +proxy
 
 
 * +direct
