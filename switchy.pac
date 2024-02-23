@@ -76,6 +76,7 @@
 *.bbc.com* +proxy
 *.bbc.co.uk* +proxy
 *.vercel.app* +proxy
+*.x.com* +proxy
 
 
 * +direct
