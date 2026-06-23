@@ -51,3 +51,4 @@ f.close()
 f = open('v2ray.pac', 'w')
 f.write(v2ray_domain)
 f.close()
+#测试一下
