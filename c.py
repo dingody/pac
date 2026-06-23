@@ -2,24 +2,31 @@ from string import Template
 switchy_template = """[SwitchyOmega Conditions]
 @with result
 
+
 $domain
+
 
 * +direct
 """
 
+
 switchy_domain_template = """*$domain* +proxy
 """
+
 
 gfw_template = """$domain,
 """
 
+
 v2ray_template = """keyword:$domain,
 """
+
 
 st = Template(switchy_template)
 sdt = Template(switchy_domain_template)
 gt = Template(gfw_template)
 v2t = Template(v2ray_template)
+
 
 f = open("d.conf")
 switchy_domain = ""
@@ -39,14 +46,17 @@ for i in f.readlines():
       
   f.close()
 
+
 switchy_pac = st.substitute(domain=switchy_domain)
 f = open('switchy.pac', 'w')
 f.write(switchy_pac)
 f.close()
 
+
 f = open('gfw.pac', 'w')
 f.write(gfw_domain)
 f.close()
+
 
 f = open('v2ray.pac', 'w')
 f.write(v2ray_domain)
